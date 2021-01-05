@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "glob": "^7.1.6",
     "recursive-readdir": "^2.2.2",
     "vssln-parser": "^0.1.4",
